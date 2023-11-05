@@ -1,8 +1,8 @@
 {
   "title": "Server list",
-  "description": "Only servers where you have the \"Manage Server\" permission are displayed.",
+  "description": "Only servers with \"Manage Server\" permission are displayed.",
   "alert": {
-    "title": "Server not being displayed?",
+    "title": "If the server is not displayed or you are sent to the invite link even though the bot is in the server",
     "desc_left": "Please try",
     "desc_right": "",
     "btn": "Reload server list"
