@@ -16,7 +16,7 @@
     "description": "Redirect to the quote channel when a quote is created",
     "options": {
       "target": "Target channel",
-      "placeholder": "Not redirect",
+      "placeholder": "No redirect",
       "leave_original": "Leave original message"
     }
   },
