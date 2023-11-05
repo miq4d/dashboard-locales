@@ -1,10 +1,10 @@
 {
-  "title": "サーバー一覧",
-  "description": "「サーバーの管理」権限を持っているサーバーのみ表示されています",
+  "title": "Servers list",
+  "description": "Only servers with \"Manage Server\" permission are displayed.",
   "alert": {
-    "title": "サーバーが表示されない/招待したのに招待リンクに飛ばされる場合",
-    "desc_left": "",
-    "desc_right": "をお試しください",
-    "btn": "サーバーリストの再取得"
+    "title": "If the server is not displayed/If you are sent to the invite link even though you have been invited",
+    "desc_left": "Please try",
+    "desc_right": "",
+    "btn": "Refresh server list"
   }
 }
