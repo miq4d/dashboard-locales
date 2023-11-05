@@ -23,7 +23,7 @@
   "always_quote": {
     "title": "Always Quote Settings",
     "description": "Always quote messages when they are sent in these channel(s)",
-    "help": "Ctrl-click or drag to select multiple items"
+    "help": "Ctrl-click or drag to select multiple items. Ctrl-click to deselect items."
   },
   "save": {
     "button": "Save",
