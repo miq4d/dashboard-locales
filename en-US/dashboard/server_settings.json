@@ -8,7 +8,7 @@
     "title": "Cooldown Settings",
     "description": "Quote creation cooldown (per user)",
     "options": {
-      "cooldown": "(Unit: second)"
+      "cooldown": "(in seconds)"
     }
   },
   "redirect": {
@@ -16,13 +16,13 @@
     "description": "Redirect to the quote channel when a quote is created",
     "options": {
       "target": "Target channel",
-      "placeholder": "Not redirect",
+      "placeholder": "Do not redirect",
       "leave_original": "Leave original message"
     }
   },
   "always_quote": {
     "title": "Always Quote Settings",
-    "description": "Always quote messages when they are sent in the quote channel",
+    "description": "Always quote messages when they are sent in these channel(s)",
     "help": "Ctrl-click or drag to select multiple items"
   },
   "save": {
