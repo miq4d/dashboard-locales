@@ -5,6 +5,6 @@
     "title": "If the server is not displayed or you are sent to the invite link even though the bot is in the server",
     "desc_left": "Please try",
     "desc_right": "",
-    "btn": "Refresh server list"
+    "btn": "Reload server list"
   }
 }
