@@ -25,5 +25,8 @@
     "description": "Always quote messages when they are sent in the quote channel",
     "help": "Ctrl-click or drag to select multiple items"
   },
-  "save": "Save"
+  "save": {
+    "button": "Save",
+    "success": "Settings saved successfully"
+  }
 }

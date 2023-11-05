@@ -30,5 +30,8 @@
       "enable": "Enable compact mode"
     }
   },
-  "save": "Save"
+  "save": {
+    "button": "Save",
+    "success": "Settings saved successfully"
+  }
 }
