@@ -3,8 +3,8 @@
   "description": "「サーバーの管理」権限を持っているサーバーのみ表示されています",
   "alert": {
     "title": "サーバーが表示されない/招待したのに招待リンクに飛ばされる場合",
-    "desc_left": "",
-    "desc_right": "をお試しください",
+    "desc_left": "Please try",
+    "desc_right": "",
     "btn": "サーバーリストの再取得"
   }
 }
