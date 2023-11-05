@@ -1,0 +1,34 @@
+{
+  "title": "ユーザー設定",
+  "block": {
+    "title": "ブロック設定",
+    "description": "あなたのメッセージから Quote を作成することを許可するかどうか",
+    "options": {
+      "always": "すべてのメッセージでブロック",
+      "spoiler": "スポイラーを含むメッセージのみブロック",
+      "never": "ブロックしない"
+    }
+  },
+  "custom": {
+    "title": "カスタム Quote の設定",
+    "description": "あなたのプロフィールを使用して架空の Quote を作成することを許可するかどうか",
+    "options": {
+      "allow": "カスタム Quote を許可"
+    }
+  },
+  "default": {
+    "title": "デフォルト設定",
+    "description": "Quote を作成する時に使用されるデフォルトの設定",
+    "options": {
+      "font": "フォント"
+    }
+  },
+  "compact": {
+    "title": "コンパクトモードの設定",
+    "description": "Quote のコントロールボタンを表示しないようにするかどうか",
+    "options": {
+      "enable": "コンパクトモードを有効化"
+    }
+  },
+  "save": "保存"
+}

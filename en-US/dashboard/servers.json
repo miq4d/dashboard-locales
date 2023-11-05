@@ -1,0 +1,10 @@
+{
+  "title": "Servers list",
+  "description": "Only servers with \"Manage Server\" permission are displayed.",
+  "alert": {
+    "title": "If the server is not displayed/If you are sent to the invite link even though you have been invited",
+    "desc_left": "Please try",
+    "desc_right": "",
+    "btn": "Reacquire server list"
+  }
+}

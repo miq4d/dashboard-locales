@@ -1,0 +1,29 @@
+{
+  "title": "Server Settings",
+  "lang": {
+    "title": "Language Settings",
+    "description": "Bot language used on the server"
+  },
+  "cooldown": {
+    "title": "Cooldown Settings",
+    "description": "Quote creation cooldown (per user)",
+    "options": {
+      "cooldown": "(Unit: second)"
+    }
+  },
+  "redirect": {
+    "title": "Redirect Settings",
+    "description": "Redirect to the quote channel when a quote is created",
+    "options": {
+      "target": "Target channel",
+      "placeholder": "Not redirect",
+      "leave_original": "Leave original message"
+    }
+  },
+  "always_quote": {
+    "title": "Always Quote Settings",
+    "description": "Always quote messages when they are sent in the quote channel",
+    "help": "Ctrl-click or drag to select multiple items"
+  },
+  "save": "Save"
+}

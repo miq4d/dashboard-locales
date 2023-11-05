@@ -1,0 +1,10 @@
+{
+  "login": {
+    "discord": "Login with Discord",
+    "misskey": "Coming soon...",
+    "bsky": "Coming soon..."
+  },
+  "logout": {
+    "btn": "Logout"
+  }
+}

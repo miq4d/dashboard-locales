@@ -1,0 +1,9 @@
+{
+  "sidebar": {
+    "home": "Home",
+    "server_settings": "Server Settings",
+    "user_settings": "User Settings",
+    "support": "Support",
+    "return_top": "Back to top"
+  }
+}

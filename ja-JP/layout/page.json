@@ -1,0 +1,36 @@
+{
+  "header": {
+    "menu": {
+      "home": "ホーム",
+      "support": "サポート",
+      "status": "ステータス"
+    },
+    "buttons": {
+      "invite": "Bot を招待",
+      "dashboard": "ダッシュボード"
+    }
+  },
+  "footer": {
+    "menu": {
+      "pages": {
+        "title": "ページ",
+        "home": "ホーム",
+        "status": "Bot ステータス"
+      },
+      "bots": {
+        "title": "Bot へのリンク",
+        "discord": "Discord 版",
+        "misskey": "Misskey / Mastodon 版",
+        "bsky": "Bluesky 版"
+      },
+      "legal": {
+        "title": "法的情報",
+        "terms": "利用規約",
+        "privacy": "プライバシーポリシー"
+      },
+      "other": {
+        "title": "他のサービス"
+      }
+    }
+  }
+}

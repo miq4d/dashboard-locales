@@ -1,0 +1,29 @@
+{
+  "title": "サーバー設定",
+  "lang": {
+    "title": "言語設定",
+    "description": "Bot がサーバーで使用する言語"
+  },
+  "cooldown": {
+    "title": "クールダウン設定",
+    "description": "Quote の作成クールダウン (ユーザーごと)",
+    "options": {
+      "cooldown": "(単位: 秒)"
+    }
+  },
+  "redirect": {
+    "title": "リダイレクト設定",
+    "description": "Quote が作成された際に転送されるチャンネル",
+    "options": {
+      "target": "転送先のチャンネル",
+      "placeholder": "転送しない",
+      "leave_original": "転送元メッセージを残す"
+    }
+  },
+  "always_quote": {
+    "title": "自動 Quote 設定",
+    "description": "メッセージが送信された際に自動で Quote するチャンネル",
+    "help": "Ctrl を押しながらクリック、またはドラッグで複数選択できます"
+  },
+  "save": "保存"
+}

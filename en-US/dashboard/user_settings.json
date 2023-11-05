@@ -1,0 +1,34 @@
+{
+  "title": "User Settings",
+  "block": {
+    "title": "Block Setting",
+    "description": "Allow or disallow Quotes to be created from your messages",
+    "options": {
+      "always": "Block on all messages",
+      "spoiler": "Block only messages containing spoilers",
+      "never": "Never block"
+    }
+  },
+  "custom": {
+    "title": "Custom Quote Setting",
+    "description": "Whether or not to allow fictitious Quotes to be created using your profile",
+    "options": {
+      "allow": "Allow custom Quotes"
+    }
+  },
+  "default": {
+    "title": "Default Settings",
+    "description": "Default options used when creating a Quote",
+    "options": {
+      "font": "Font"
+    }
+  },
+  "compact": {
+    "title": "Compact Mode Setting",
+    "description": "Show or hide the Quote control button",
+    "options": {
+      "enable": "Enable compact mode"
+    }
+  },
+  "save": "Save"
+}

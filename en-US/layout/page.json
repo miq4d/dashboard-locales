@@ -1,0 +1,36 @@
+{
+  "header": {
+    "menu": {
+      "home": "Home",
+      "support": "Support",
+      "status": "Status"
+    },
+    "buttons": {
+      "invite": "Invite Bot",
+      "dashboard": "Dashboard"
+    }
+  },
+  "footer": {
+    "menu": {
+      "pages": {
+        "title": "Pages",
+        "home": "Home",
+        "status": "Bot status"
+      },
+      "bots": {
+        "title": "Links to bots",
+        "discord": "Discord version",
+        "misskey": "Misskey / Mastodon version",
+        "bsky": "Bluesky version"
+      },
+      "legal": {
+        "title": "Legal",
+        "terms": "Terms of Service",
+        "privacy": "Privacy policy"
+      },
+      "other": {
+        "title": "Other services"
+      }
+    }
+  }
+}
