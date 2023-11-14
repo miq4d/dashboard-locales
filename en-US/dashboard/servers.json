@@ -6,5 +6,9 @@
     "desc_left": "Please try",
     "desc_right": "",
     "btn": "Reload server list"
+  },
+  "429": {
+    "title": "Too many requests",
+    "description": "The server list can be reacquired once every minute. Please try again after a while."
   }
 }
