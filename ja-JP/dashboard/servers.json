@@ -1,10 +1,14 @@
 {
-  "title": "Server list",
+  "title": "サーバー一覧",
   "description": "「サーバーの管理」権限を持っているサーバーのみ表示されています",
   "alert": {
-    "title": "If the server is not displayed or you are sent to the invite link even though the bot is in the server",
+    "title": "サーバーが表示されない/招待したのに招待リンクに飛ばされる場合",
     "desc_left": "Please try",
     "desc_right": "をお試しください",
-    "btn": "Reload server list"
+    "btn": "サーバーリストの再取得"
+  },
+  "429": {
+    "title": "リクエストが多すぎます",
+    "description": "サーバーリストの再取得は1分に1回実行できます。しばらく経ってから再度お試しください。"
   }
 }
