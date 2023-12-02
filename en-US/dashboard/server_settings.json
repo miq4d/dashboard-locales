@@ -23,7 +23,13 @@
   "always_quote": {
     "title": "Always Quote Settings",
     "description": "Always quote messages when they are sent in these channel(s)",
-    "help": "Ctrl-click or drag to select multiple items. Ctrl-click to deselect items."
+    "unknown_channel": "Unknown channel",
+    "not_specified": "Channel not specified",
+    "max_channels": "You can only specify up to 5 channels",
+    "add_channel": "Add channel",
+    "select_channel": "Select channel",
+    "cancel": "Cancel",
+    "add": "Add"
   },
   "save": {
     "button": "Save",

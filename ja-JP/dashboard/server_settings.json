@@ -23,7 +23,13 @@
   "always_quote": {
     "title": "自動 Quote 設定",
     "description": "メッセージが送信された際に自動で Quote するチャンネル",
-    "help": "Ctrl を押しながらクリック、またはドラッグで複数選択できます"
+    "unknown_channel": "不明なチャンネル",
+    "not_specified": "チャンネルが指定されていません",
+    "max_channels": "指定できるチャンネルは最大 5 つです",
+    "add_channel": "チャンネルを追加",
+    "select_channel": "チャンネルを選択",
+    "cancel": "キャンセル",
+    "add": "追加"
   },
   "save": {
     "button": "保存",
