@@ -8,7 +8,7 @@
     "title": "クールダウン設定",
     "description": "Quote の作成クールダウン (ユーザーごと)",
     "options": {
-      "cooldown": "(単位: 秒)"
+      "cooldown": "(in seconds)"
     }
   },
   "redirect": {
@@ -16,14 +16,14 @@
     "description": "Quote が作成された際に転送されるチャンネル",
     "options": {
       "target": "転送先のチャンネル",
-      "placeholder": "転送しない",
+      "placeholder": "Do not redirect",
       "leave_original": "転送元メッセージを残す"
     }
   },
   "always_quote": {
     "title": "自動 Quote 設定",
-    "description": "メッセージが送信された際に自動で Quote するチャンネル",
-    "help": "Ctrl を押しながらクリック、またはドラッグで複数選択できます"
+    "description": "Always quote messages when they are sent in these channel(s)",
+    "help": "Ctrl-click or drag to select multiple items. Ctrl-click to deselect items."
   },
   "save": {
     "button": "保存",
