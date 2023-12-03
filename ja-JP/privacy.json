@@ -5,15 +5,15 @@
   "description": "Neody は、Discord 上で提供するサービスにおける、ユーザーの個人情報の取扱いについて、以下のとおりプライバシーポリシー (以下「当ポリシー」) を定めます。",
   "collection": {
     "title": "個人情報の収集",
-    "content": "<p>Neody temporarily uses</p><ul><li>User icon URL</li><li>Usernames</li><li>User IDs</li><li>Message content</li></ul><p>When generating images.</p><p>This information is not saved and is discarded once the image generation is complete. (Usually occurs in less than 1 second)</p>"
+    "content": "<p>Neody は、画像を生成する際に一時的に</p><ul><li>ユーザーのアイコン URL</li><li>ユーザーのユーザー名</li><li>ユーザーのユーザー ID</li><li>メッセージの内容</li></ul><p>を取得します。</p><p>これらの情報は保存されず、画像の生成が完了すると同時に破棄されます。(通常は 1 秒未満)</p>"
   },
   "purpose": {
-    "title": "What is this information used for?",
-    "content": "<p>The purposes for which Neody collects and uses personal information are as follows.</p><ul><li>Generating an image from the requested message</li></ul>"
+    "title": "個人情報を収集・利用する目的",
+    "content": "<p>Neody が個人情報を収集・利用する目的は、以下のとおりです。</p><ul><li>リクエストされたメッセージから画像を生成するため</li></ul>"
   },
   "change_use": {
     "title": "利用目的の変更",
-    "content": "<p>Neody will only change the use of personal information when new features may require more information. Personal information will not be used for purposes unrelated to the service being provided.</p><p>If a change of use of personal information is in order, users will be notified through the varios channels provided by Neody.</p>"
+    "content": "<p>Neody は、利用目的が変更前と関連性を有すると合理的に認められる場合に限り、個人情報の利用目的を変更するものとします。</p><p>利用目的の変更を行った場合には、変更後の目的について、Neody 所定の方法により、ユーザーに通知し、または当ウェブサイト上に公表するものとします。</p>"
   },
   "change_policy": {
     "title": "プライバシーポリシーの変更",
