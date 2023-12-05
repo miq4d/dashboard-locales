@@ -28,8 +28,7 @@
     "max_channels": "You can only specify up to 5 channels",
     "add_channel": "Add channel",
     "select_channel": "Select channel",
-    "cancel": "Cancel",
-    "add": "Add"
+    "cancel": "Cancel"
   },
   "save": {
     "button": "Save",

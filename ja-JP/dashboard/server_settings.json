@@ -28,8 +28,7 @@
     "max_channels": "指定できるチャンネルは最大 5 つです",
     "add_channel": "チャンネルを追加",
     "select_channel": "チャンネルを選択",
-    "cancel": "キャンセル",
-    "add": "追加"
+    "cancel": "キャンセル"
   },
   "save": {
     "button": "保存",
