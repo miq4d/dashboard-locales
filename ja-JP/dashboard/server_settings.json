@@ -22,7 +22,7 @@
   },
   "always_quote": {
     "title": "自動 Quote 設定",
-    "description": "Always quote messages when they are sent in these channel(s)",
+    "description": "メッセージが送信された際に自動で Quote するチャンネル",
     "unknown_channel": "不明なチャンネル",
     "not_specified": "チャンネルが指定されていません",
     "max_channels": "指定できるチャンネルは最大 5 つです",
