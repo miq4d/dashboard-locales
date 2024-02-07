@@ -30,6 +30,20 @@
     "select_channel": "チャンネルを選択",
     "cancel": "キャンセル"
   },
+  "role_lists": {
+    "title": "ロールブラックリスト/ホワイトリスト",
+    "description_1": "ブラックリストモードの場合、ロールを持っているユーザーはQuoteできません。",
+    "description_2": "ホワイトリストモードの場合、ロールを持っているユーザーのみQuoteできます。",
+    "description_3": "自動 Quoteの場合はこの設定は適用されません。チャンネルの権限設定で対処してください。",
+    "mode": "モード",
+    "mode_blacklist": "ブラックリスト",
+    "mode_whitelist": "ホワイトリスト",
+    "add_role": "ロールを追加",
+    "choose_role": "ロールを選択",
+    "everyone": "全員に適用されます",
+    "not_specified": "ロールが指定されていません",
+    "zero_warning": "ホワイトリストモードでロールが指定されていないため、誰もQuoteすることができません！"
+  },
   "save": {
     "button": "保存",
     "success": "設定を保存しました"
