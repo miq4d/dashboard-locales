@@ -30,20 +30,6 @@
     "select_channel": "Select channel",
     "cancel": "Cancel"
   },
-  "role_lists": {
-    "title": "Role blacklist/whitelist settings",
-    "description_1": "If you are in blacklist mode, users with the specified roles will NOT be able to Quote.",
-    "description_2": "If you are in whitelist mode, ONLY users with the specified roles will be able to Quote.",
-    "description_3": "This setting does not apply to Always Quote. Please use the channel permissions settings to handle this.",
-    "mode": "Mode",
-    "mode_blacklist": "Blacklist",
-    "mode_whitelist": "Whitelist",
-    "add_role": "Add role",
-    "choose_role": "Choose role",
-    "everyone": "Affect to everyone",
-    "not_specified": "Role not specified",
-    "zero_warning": "No one can Quote because no role is specified in whitelist mode!"
-  },
   "save": {
     "button": "Save",
     "success": "Settings saved successfully"
