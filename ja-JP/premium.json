@@ -1,6 +1,6 @@
 {
   "getCool": "寄付して素敵な特典を手に入れよう！",
-  "priceSuffix": "米ドル/月",
+  "priceSuffix": "米ドル",
   "plan": "プラン",
   "badge": "もらえるバッジ",
   "ads": "広告非表示",
@@ -22,5 +22,7 @@
   "buy-now": "Plusに契約する",
   "buy": "購入",
   "payYearly": "年額払い",
-  "15Discount": "15%お得！"
+  "15Discount": "15%お得！",
+  "monthly": "月",
+  "yearly": "年"
 }
