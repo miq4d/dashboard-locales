@@ -3,7 +3,8 @@
     "menu": {
       "home": "ホーム",
       "support": "サポート",
-      "status": "ステータス"
+      "status": "ステータス",
+      "premium": "Plus"
     },
     "buttons": {
       "invite": "Bot を招待",
