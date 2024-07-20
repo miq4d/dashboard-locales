@@ -3,7 +3,8 @@
     "menu": {
       "home": "Home",
       "support": "Support",
-      "status": "Status"
+      "status": "Status",
+      "premium": "Plus"
     },
     "buttons": {
       "invite": "Invite Bot",
