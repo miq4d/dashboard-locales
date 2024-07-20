@@ -24,5 +24,6 @@
   "payYearly": "Pay Annually",
   "15Discount": "15% discount!",
   "monthly": "Month",
-  "yearly": "Year"
+  "yearly": "Year",
+  "alreadySubscribed": "Already subscribed"
 }
