@@ -1,6 +1,6 @@
 {
   "getCool": "Support the bot, and get cool perks in return!",
-  "priceSuffix": "USD/mo",
+  "priceSuffix": "USD",
   "plan": "Plan",
   "badge": "Earned Badges",
   "ads": "No ads in bot messages",
@@ -22,5 +22,7 @@
   "buy-now": "Subscribe to Plus",
   "buy": "Subscribe",
   "payYearly": "Pay Annually",
-  "15Discount": "15% discount!"
+  "15Discount": "15% discount!",
+  "monthly": "Month",
+  "yearly": "Year"
 }
