@@ -3,7 +3,8 @@
     "menu": {
       "home": "ホーム",
       "support": "サポート",
-      "status": "ステータス"
+      "status": "ステータス",
+      "guides": "ご利用ガイド"
     },
     "buttons": {
       "invite": "Bot を招待",
@@ -15,7 +16,8 @@
       "pages": {
         "title": "ページ",
         "home": "ホーム",
-        "status": "Bot ステータス"
+        "status": "Bot ステータス",
+        "guides": "ご利用ガイド"
       },
       "bots": {
         "title": "Bot へのリンク",

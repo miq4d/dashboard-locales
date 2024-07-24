@@ -3,7 +3,8 @@
     "menu": {
       "home": "Home",
       "support": "Support",
-      "status": "Status"
+      "status": "Status",
+      "guides": "Guides"
     },
     "buttons": {
       "invite": "Invite Bot",
@@ -15,7 +16,8 @@
       "pages": {
         "title": "Pages",
         "home": "Home",
-        "status": "Bot status"
+        "status": "Bot status",
+        "guides": "Guides"
       },
       "bots": {
         "title": "Links to bots",
