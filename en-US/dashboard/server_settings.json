@@ -17,7 +17,8 @@
     "options": {
       "target": "Target channel",
       "placeholder": "Do not redirect",
-      "leave_original": "Leave original message"
+      "leave_original": "Leave original message",
+      "quiet_redirect": "Quiet redirect"
     }
   },
   "always_quote": {
