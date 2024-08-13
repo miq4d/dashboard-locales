@@ -17,8 +17,14 @@
     "options": {
       "target": "Target channel",
       "placeholder": "Do not redirect",
-      "leave_original": "Leave original message",
-      "quiet_redirect": "Quiet redirect"
+      "leave_original": "Leave original message"
+    }
+  },
+  "quiet_generation": {
+    "title": "Quiet generation",
+    "description": "Generate quotes silently without 'Generating...' nor 'Created channel ...' (when redirected)",
+    "options": {
+      "quiet_generation": "Enable quiet generation"
     }
   },
   "always_quote": {
