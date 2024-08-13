@@ -17,8 +17,14 @@
     "options": {
       "target": "転送先のチャンネル",
       "placeholder": "Do not redirect",
-      "leave_original": "転送元メッセージを残す",
-      "quiet_redirect": "Quiet redirect"
+      "leave_original": "転送元メッセージを残す"
+    }
+  },
+  "quiet_generation": {
+    "title": "Quiet generation",
+    "description": "Generate quotes silently without 'Generating...' nor 'Created channel ...' (when redirected)",
+    "options": {
+      "quiet_generation": "Enable quiet generation"
     }
   },
   "always_quote": {
