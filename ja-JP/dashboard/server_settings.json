@@ -1,4 +1,5 @@
 {
+  "general": "基本設定",
   "title": "サーバー設定",
   "lang": {
     "title": "言語設定",
@@ -25,6 +26,13 @@
     "description": "「生成中...」や 「生成完了」 (リダイレクトの場合) を送らず、Quote を無言で生成します。",
     "options": {
       "quiet_generation": "生成時のメッセージを省略する"
+    }
+  },
+  "auto_enable_custom_quote": {
+    "title": "カスタム Quote を自動で有効化 ({{limit}}人未満のサーバーのみ)",
+    "description": "通常カスタム Quote はメンバー個人が許可しないと利用できませんが、サーバーが{{limit}}人未満である場合に限り、この設定を有効にしていると 明示的にカスタム Quote を有効にしていなくてもカスタム Quote を使用できるようになります。この設定が有効であっても、メンバーは、明示的にカスタム Quote を拒否することが出来ます。サーバーに{{limit}}人以上のメンバーがいる場合、この設定は無視されます。",
+    "options": {
+      "enable_auto_enable_custom_quote": "カスタム Quote が自動で有効になるようにする"
     }
   },
   "always_quote": {
