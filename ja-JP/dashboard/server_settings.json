@@ -1,5 +1,5 @@
 {
-  "general": "General",
+  "general": "基本設定",
   "title": "サーバー設定",
   "lang": {
     "title": "言語設定",
@@ -29,10 +29,10 @@
     }
   },
   "auto_enable_custom_quote": {
-    "title": "Auto-enable Custom Quote (<{{limit}} members only)",
-    "description": "Normally Custom Quote is only available to individual members if they allow it, but if you have less than {{limit}} servers, you can enable this setting so that Custom Quote is available even if you have not explicitly enabled Custom Quote. Even with this setting enabled, members can still explicitly disallow Custom Quote. If a server has more than {{limit}} members, this setting will be ignored.",
+    "title": "カスタム Quote を自動で有効化 ({{limit}}人未満のサーバーのみ)",
+    "description": "通常カスタム Quote はメンバー個人が許可しないと利用できませんが、サーバーが{{limit}}人未満である場合に限り、この設定を有効にしていると 明示的にカスタム Quote を有効にしていなくてもカスタム Quote を使用できるようになります。この設定が有効であっても、メンバーは、明示的にカスタム Quote を拒否することが出来ます。サーバーに{{limit}}人以上のメンバーがいる場合、この設定は無視されます。",
     "options": {
-      "enable_auto_enable_custom_quote": "Enable auto-enable custom quote"
+      "enable_auto_enable_custom_quote": "カスタム Quote が自動で有効になるようにする"
     }
   },
   "always_quote": {
