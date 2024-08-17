@@ -1,4 +1,5 @@
 {
+  "general": "General",
   "title": "サーバー設定",
   "lang": {
     "title": "言語設定",
@@ -25,6 +26,13 @@
     "description": "「生成中...」や 「生成完了」 (リダイレクトの場合) を送らず、Quote を無言で生成します。",
     "options": {
       "quiet_generation": "生成時のメッセージを省略する"
+    }
+  },
+  "auto_enable_custom_quote": {
+    "title": "Auto-enable Custom Quote (<{{limit}} members only)",
+    "description": "Normally Custom Quote is only available to individual members if they allow it, but if you have less than {{limit}} servers, you can enable this setting so that Custom Quote is available even if you have not explicitly enabled Custom Quote. Even with this setting enabled, members can still explicitly disallow Custom Quote. If a server has more than {{limit}} members, this setting will be ignored.",
+    "options": {
+      "enable_auto_enable_custom_quote": "Enable auto-enable custom quote"
     }
   },
   "always_quote": {
