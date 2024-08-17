@@ -13,10 +13,8 @@
     "title": "Custom Quote Setting",
     "description": "Whether or not to allow fictitious Quotes to be created using your profile",
     "options": {
-      "allow": "Allow Custom Quotes",
-      "force_disable": "Force disable Custom Quotes"
-    },
-    "disable_description": "Custom Quote may be automatically enabled on servers with less than 50 members. Check this checkbox to disable Custom Quote completely."
+      "allow": "Allow custom Quotes"
+    }
   },
   "default": {
     "title": "Default Settings",
