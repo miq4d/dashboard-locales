@@ -8,7 +8,7 @@
     "title": "クールダウン設定",
     "description": "Quote の作成クールダウン (ユーザーごと)",
     "options": {
-      "cooldown": "(in seconds)"
+      "cooldown": "(秒)"
     }
   },
   "redirect": {
