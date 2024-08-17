@@ -16,7 +16,7 @@
       "allow": "Allow Custom Quotes",
       "force_disable": "Force disable Custom Quotes"
     },
-    "disable_description": "Custom Quote may be automatically enabled on servers with less than 50 members. Check this checkbox to disable Custom Quote completely."
+    "disable_description": "Custom Quote may be automatically enabled on servers with less than {{limit}} members. Check this checkbox to disable Custom Quote completely."
   },
   "default": {
     "title": "Default Settings",
