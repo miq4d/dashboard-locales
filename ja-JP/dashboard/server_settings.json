@@ -16,7 +16,7 @@
     "description": "Quote が作成された際に転送されるチャンネル",
     "options": {
       "target": "転送先のチャンネル",
-      "placeholder": "Do not redirect",
+      "placeholder": "転送しない",
       "leave_original": "転送元メッセージを残す"
     }
   },
