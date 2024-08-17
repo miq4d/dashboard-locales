@@ -21,10 +21,10 @@
     }
   },
   "quiet_generation": {
-    "title": "Quiet generation",
-    "description": "Generate quotes silently without 'Generating...' nor 'Created channel ...' (when redirected)",
+    "title": "生成時のメッセージを省略",
+    "description": "「生成中...」や 「生成完了」 (リダイレクトの場合) を送らず、Quote を無言で生成します。",
     "options": {
-      "quiet_generation": "Enable quiet generation"
+      "quiet_generation": "生成時のメッセージを省略する"
     }
   },
   "always_quote": {
