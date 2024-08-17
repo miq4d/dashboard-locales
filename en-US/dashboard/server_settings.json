@@ -1,4 +1,5 @@
 {
+  "general": "General",
   "title": "Server Settings",
   "lang": {
     "title": "Language Settings",
@@ -25,6 +26,13 @@
     "description": "Generate quotes silently without 'Generating...' nor 'Created channel ...' (when redirected)",
     "options": {
       "quiet_generation": "Enable quiet generation"
+    }
+  },
+  "auto_enable_custom_quote": {
+    "title": "Auto-enable Custom Quote (<{{limit}} members only)",
+    "description": "Normally Custom Quote is only available to individual members if they allow it, but if you have less than {{limit}} servers, you can enable this setting so that Custom Quote is available even if you have not explicitly enabled Custom Quote. Even with this setting enabled, members can still explicitly disallow Custom Quote. If a server has more than {{limit}} members, this setting will be ignored.",
+    "options": {
+      "enable_auto_enable_custom_quote": "Enable auto-enable custom quote"
     }
   },
   "always_quote": {
