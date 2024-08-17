@@ -20,6 +20,13 @@
       "leave_original": "転送元メッセージを残す"
     }
   },
+  "quiet_generation": {
+    "title": "生成時のメッセージを省略",
+    "description": "「生成中...」や 「生成完了」 (リダイレクトの場合) を送らず、Quote を無言で生成します。",
+    "options": {
+      "quiet_generation": "生成時のメッセージを省略する"
+    }
+  },
   "always_quote": {
     "title": "自動 Quote 設定",
     "description": "メッセージが送信された際に自動で Quote するチャンネル",
