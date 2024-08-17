@@ -16,7 +16,7 @@
       "allow": "カスタム Quote を許可",
       "force_disable": "カスタム Quote を強制的に無効にする"
     },
-    "disable_description": "Custom Quote may be automatically enabled on servers with less than {{limit}} members. Check this checkbox to disable Custom Quote completely."
+    "disable_description": "{{limit}}人以下のメンバーのサーバーでは、カスタム Quote が自動的に有効になることがあります。このチェックボックスをチェックすることでカスタム Quote を完全に無効化します。"
   },
   "default": {
     "title": "デフォルト設定",
