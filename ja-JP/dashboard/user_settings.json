@@ -13,10 +13,10 @@
     "title": "カスタム Quote の設定",
     "description": "あなたのプロフィールを使用して架空の Quote を作成することを許可するかどうか",
     "options": {
-      "allow": "Allow Custom Quotes",
-      "force_disable": "Force disable Custom Quotes"
+      "allow": "カスタム Quote を許可",
+      "force_disable": "カスタム Quote を強制的に無効にする"
     },
-    "disable_description": "Custom Quote may be automatically enabled on servers with less than 50 members. Check this checkbox to disable Custom Quote completely."
+    "disable_description": "Custom Quote may be automatically enabled on servers with less than {{limit}} members. Check this checkbox to disable Custom Quote completely."
   },
   "default": {
     "title": "デフォルト設定",
