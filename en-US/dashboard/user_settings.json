@@ -1,5 +1,10 @@
 {
   "title": "User Settings",
+  "lang": {
+    "title": "User App Language Settings",
+    "description": "Bot language used on the User App.",
+    "warning": "This setting is not used within the server where the Bot is installed; the server setting is used."
+  },
   "block": {
     "title": "Block Setting",
     "description": "Allow or disallow Quotes to be created from your messages",
