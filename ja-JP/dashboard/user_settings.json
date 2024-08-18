@@ -1,9 +1,9 @@
 {
   "title": "ユーザー設定",
   "lang": {
-    "title": "User App Language Settings",
-    "description": "Bot language used on the User App.",
-    "warning": "This setting is not used within the server where the Bot is installed; the server setting is used."
+    "title": "ユーザーアプリ言語設定",
+    "description": "Bot がユーザーアプリで使用する言語.",
+    "warning": "この設定は Bot がインストールされているサーバー内では使用されず、サーバーの設定で置き換えられます。"
   },
   "block": {
     "title": "ブロック設定",
