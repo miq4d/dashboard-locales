@@ -37,6 +37,13 @@
       "enable": "Enable compact mode"
     }
   },
+  "done": {
+    "title": "Done",
+    "description": "Add a “Done” button to Quote. Pressing this button will remove the button from that Quote, making it look like a compact mode. This has no effect when in compact mode.",
+    "options": {
+      "enable": "Enable Done button"
+    }
+  },
   "save": {
     "button": "Save",
     "success": "Settings saved successfully"
