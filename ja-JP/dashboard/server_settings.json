@@ -28,6 +28,10 @@
       "quiet_generation": "生成時のメッセージを省略する"
     }
   },
+  "custom_message": {
+    "title": "Custom message",
+    "description": "Set custom message for quotes generation, i.e. replacing 'Generating...'"
+  },
   "auto_enable_custom_quote": {
     "title": "カスタム Quote を自動で有効化 ({{limit}}人未満のサーバーのみ)",
     "description": "通常カスタム Quote はメンバー個人が許可しないと利用できませんが、サーバーが{{limit}}人未満である場合に限り、この設定を有効にしていると 明示的にカスタム Quote を有効にしていなくてもカスタム Quote を使用できるようになります。この設定が有効であっても、メンバーは、明示的にカスタム Quote を拒否することが出来ます。サーバーに{{limit}}人以上のメンバーがいる場合、この設定は無視されます。",
