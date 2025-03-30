@@ -1,10 +1,16 @@
 {
   "buttons": {
-    "invite": "Bot を招待",
+    "invite": "招待する",
     "dashboard": "ダッシュボード"
   },
-  "description_1": "Make it a Quote は、コンテンツから Quote を作成できる Bot です。 Discord、Misskey (Fediverse)、Bluesky に対応しています。",
-  "description_2": "二つの生成デザインがあります。 ボタン一つであっという間に切り替えることができます。",
-  "description_3": "18種類ものフォント、カラー/モノクロ、背景の白黒、文字の太さ、左右反転などたくさんのオプションがあります。 あなたの好きなようにカスタマイズして楽しみましょう！",
-  "lets_start": "さあ、Bot を招待しよう！"
+  "many_users": "大勢による信頼",
+  "description_1": "カスタマイズ自由",
+  "description_2": "様々なデザインの生成が可能です。",
+  "description_3": "ボタン一つで切り替え自由自在！",
+  "interactive_demo": "触ってみよう！",
+  "free": "完全無料",
+  "free_description": "無料で何度で画像を生成できます！",
+  "join": "あなたも使ってみよう！",
+  "servers_enjoying": "Make it a Quoteを使ってるサーバー",
+  "lets_start": "サーバーにもっと彩りを！"
 }
