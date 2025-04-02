@@ -5,34 +5,34 @@
   "description": "These Terms of Use (hereinafter referred to as the \"Terms\") set forth the terms of use of the service provided by Neody on Discord (hereinafter referred to as the \"Service\"). All registered users (hereinafter referred to as \"Users\") must use this Service in accordance with these Terms.",
   "application": {
     "title": "Application",
-    "content": "<p>These Terms shall apply to all relationships between users and Neody regarding the use of this service.</p><p>In addition to these Terms, Neody may establish various regulations (hereinafter referred to as \"Individual Regulations\") regarding the Service, such as rules for use. These individual provisions shall constitute a part of these Terms, regardless of their name.</p><p>If the provisions of these Terms of Use conflict with the provisions of the individual provisions in the preceding article, the provisions of the individual provisions shall take precedence unless otherwise specified in the individual provisions.</p>"
+    "content": "These Terms shall apply to all relationships between users and Neody regarding the use of this service. In addition to these Terms, Neody may establish various regulations (hereinafter referred to as \"Individual Regulations\") regarding the Service, such as rules for use. These individual provisions shall constitute a part of these Terms, regardless of their name. If the provisions of these Terms of Use conflict with the provisions of the individual provisions in the preceding article, the provisions of the individual provisions shall take precedence unless otherwise specified in the individual provisions."
   },
   "registration": {
     "title": "Registration",
-    "content": "<p>Registration for this service will be completed when the person wishing to register agrees to these terms and uses a command on Discord or adds a bot to the server.</p><p>Neody may delete or block the registration if it determines that the applicant has any of the following reasons, and is not obligated to disclose the reason.</p><ul><li>If the application is from a person who has violated these Terms</li><li>In addition, if Neody determines that the usage registration is not appropriate</ul>"
+    "content": "Registration for this service will be completed when the person wishing to register agrees to these terms and uses a command on Discord or adds a bot to the server. Neody may delete or block the registration if it determines that the applicant has any of the following reasons, and is not obligated to disclose the reason. If the application is from a person who has violated these Terms In addition, if Neody determines that the usage registration is not appropriate"
   },
   "prohibitions": {
     "title": "Prohibitions",
-    "content": "<p>Users must not engage in the following acts when using this service.</p><ul><li>Acts that violate laws or public order and morals</li><li>Acts related to criminal acts</li><li>Acts that destroy or interfere with the functions of Neody's server or network.</li><li>Acts that may interfere with the operation of Neody's services</li><li>Acts that directly or indirectly provide benefits to anti-social forces in connection with Neody's services.</li><li>Acts that infringe on the intellectual property rights, portrait rights, privacy, reputation, and other rights or interests of Neody, other users of this service, or third parties.</li><li>Other acts that Neody deems inappropriate.</li><li>Acts that violate <a href=\"https://discord.com/guidelines\" target=\"_blank\">Discord Community Guidelines</a></li></ul>"
+    "content": "Users must not engage in the following acts when using this service. Acts that violate laws or public order and morals Acts related to criminal acts Acts that destroy or interfere with the functions of Neody's server or network. Acts that may interfere with the operation of Neody's services Acts that directly or indirectly provide benefits to anti-social forces in connection with Neody's services. Acts that infringe on the intellectual property rights, portrait rights, privacy, reputation, and other rights or interests of Neody, other users of this service, or third parties. Other acts that Neody deems inappropriate. Acts that violate Discord Community Guidelines."
   },
   "suspension": {
     "title": "Suspension of provision of this service, etc.",
-    "content": "<p>Neody may suspend or suspend the provision of all or part of the Service at any time without prior notice to the User.</p>"
+    "content": "Neody may suspend or suspend the provision of all or part of the Service at any time without prior notice to the User."
   },
   "disclaimer": {
     "title": "Disclaimer of Warranties and Disclaimer",
-    "content": "<p>Neody shall not be responsible for any factual or legal defects in the Service (defects in safety, reliability, accuracy, completeness, effectiveness, suitability for a particular purpose, security, etc., errors or bugs, infringement of rights, etc.). We do not guarantee, either expressly or implicitly, that there will be no</p><p>Neody is not responsible for any damage caused to users due to this service.</p><p>Neody is not responsible for any transactions, communications, or disputes that arise between users and other users or third parties regarding this service.</p>"
+    "content": "Neody shall not be responsible for any factual or legal defects in the Service (defects in safety, reliability, accuracy, completeness, effectiveness, suitability for a particular purpose, security, etc., errors or bugs, infringement of rights, etc.). We do not guarantee, either expressly or implicitly, that there will be no. Neody is not responsible for any damage caused to users due to this service. Neody is not responsible for any transactions, communications, or disputes that arise between users and other users or third parties regarding this service."
   },
   "change_service": {
     "title": "Changes in service content, etc.",
-    "content": "<p>Neody may change the content of this service or discontinue the provision of this service without notifying users, and will not be responsible for any damage caused to users as a result.</p>"
+    "content": "Neody may change the content of this service or discontinue the provision of this service without notifying users, and will not be responsible for any damage caused to users as a result."
   },
   "change_terms": {
     "title": "Changes to Terms of Use",
-    "content": "<p>Neody may change these Terms at any time without notifying users if it deems it necessary. If the user starts using this service after changing these terms, the user will be deemed to have agreed to the changed terms.</p>"
+    "content": "Neody may change these Terms at any time without notifying users if it deems it necessary. If the user starts using this service after changing these terms, the user will be deemed to have agreed to the changed terms."
   },
   "privacy": {
     "title": "Handling of personal information",
-    "content": "<p>Neody will appropriately handle personal information obtained through the use of this service in accordance with the \"Privacy Policy\".</p>"
+    "content": "Neody will appropriately handle personal information obtained through the use of this service in accordance with the \"Privacy Policy\"."
   }
 }
