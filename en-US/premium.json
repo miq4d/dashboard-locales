@@ -3,6 +3,12 @@
   "priceSuffix": "USD",
   "plan": "Plan",
   "badge": "Earned Badges",
+  "guildBadges": "Server Badge System",
+  "guildBadgesDesc": {
+    "free": "No badges",
+    "basic": "Grant 1 badge to servers",
+    "standard": "Grant 3 badges to servers"
+  },
   "ads": "No ads in bot messages",
   "alwaysLimit": "Always Quote channels",
   "addGifs": "Animated GIFs in quotes",
