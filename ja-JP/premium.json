@@ -3,6 +3,12 @@
   "priceSuffix": "米ドル",
   "plan": "プラン",
   "badge": "もらえるバッジ",
+  "guildBadges": "サーバーバッジシステム",
+  "guildBadgesDesc": {
+    "free": "バッジなし",
+    "basic": "サーバーにバッジを1個付与可能",
+    "standard": "サーバーにバッジを3個付与可能"
+  },
   "ads": "広告非表示",
   "alwaysLimit": "Always Quote チャンネル",
   "addGifs": "GIF画像をQuoteに追加",
