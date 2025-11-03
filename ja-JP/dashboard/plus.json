@@ -1,0 +1,31 @@
+{
+  "title": "サーバーバッジ管理",
+  "description": "サーバーに付与されているバッジの状況を確認できます。バッジを付与することで、Plus専用機能を使用できるようになります。",
+  "current_plan": "現在のプラン",
+  "active_badges": "アクティブなバッジ",
+  "total_badges": "総バッジ数",
+  "badge_holders": "バッジ付与者",
+  "no_badges": "このサーバーには現在バッジが付与されていません。",
+  "badge_list": "バッジ一覧",
+  "granted_by": "付与者",
+  "granted_at": "付与日時",
+  "expires_at": "有効期限",
+  "never_expires": "無期限",
+  "plan_info": {
+    "free": {
+      "name": "Free",
+      "description": "基本機能のみ利用可能"
+    },
+    "basic": {
+      "name": "Basic",
+      "description": "バッジ1つで利用可能"
+    },
+    "standard": {
+      "name": "Standard",
+      "description": "バッジ2つで利用可能"
+    }
+  },
+  "manage_badges": "バッジを管理",
+  "grant_badge": "バッジを付与する",
+  "revoke_badge": "バッジを削除する"
+}

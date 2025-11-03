@@ -28,6 +28,22 @@
       "quiet_generation": "Enable quiet generation"
     }
   },
+  "help_message": {
+    "title": "Help Message Settings",
+    "description": "Control whether to display help messages when the bot is mentioned without a reply.",
+    "options": {
+      "always_show": "Always show",
+      "never_show": "Never show"
+    }
+  },
+  "plus_feature_lock": {
+    "title": "Plus Exclusive Feature",
+    "required": "Required",
+    "description": "This feature requires a {{plan}} plan (requires {{badge}} Badge(s)).",
+    "badge_explanation": "Grant a badge to your server to unlock Plus features.",
+    "manage_badges": "Manage Badges",
+    "cancel": "Cancel"
+  },
   "custom_message": {
     "title": "Custom message",
     "description": "Set custom message for quotes generation, i.e. replacing 'Generating...'"

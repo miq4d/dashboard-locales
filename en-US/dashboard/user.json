@@ -1,5 +1,9 @@
 {
   "yearly": "Yearly",
   "monthly": "Monthly",
-  "noSubscription": "No subscription"
+  "noSubscription": "No subscription",
+  "duration": "duration",
+  "expires": "expires",
+  "manage": "manage",
+  "portal": "portal"
 }

@@ -32,5 +32,6 @@
   "15Discount": "15% discount!",
   "monthly": "Month",
   "yearly": "Year",
-  "alreadySubscribed": "Already subscribed"
+  "alreadySubscribed": "Already subscribed",
+  "badgeManagement": "Badge Management"
 }
