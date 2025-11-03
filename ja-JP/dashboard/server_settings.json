@@ -28,6 +28,22 @@
       "quiet_generation": "生成時のメッセージを省略する"
     }
   },
+  "help_message": {
+    "title": "ヘルプメッセージ設定",
+    "description": "Botをリプライ先無しでメンションした際のヘルプメッセージの表示を制御します。",
+    "options": {
+      "always_show": "常に表示",
+      "never_show": "表示しない"
+    }
+  },
+  "plus_feature_lock": {
+    "title": "Plus専用機能",
+    "required": "が必要です",
+    "description": "この機能を使用するには {{plan}}プラン (バッジの数 {{badge}}) が必要です。",
+    "badge_explanation": "バッジをサーバーに付与することで、Plus機能を使用できるようになります。",
+    "manage_badges": "バッジを管理",
+    "cancel": "キャンセル"
+  },
   "custom_message": {
     "title": "Custom message",
     "description": "Set custom message for quotes generation, i.e. replacing 'Generating...'"
