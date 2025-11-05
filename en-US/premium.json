@@ -33,5 +33,7 @@
   "monthly": "Month",
   "yearly": "Year",
   "alreadySubscribed": "Already subscribed",
-  "badgeManagement": "Badge Management"
+  "badgeManagement": "Badge Management",
+  "usingPlus": "🎉 Plus subscription is active!",
+  "usableFeatures": "You can use the following badge management features."
 }
