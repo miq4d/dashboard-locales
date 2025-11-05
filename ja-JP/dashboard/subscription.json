@@ -1,0 +1,47 @@
+{
+  "purchase_failed": "購入処理に失敗しました。",
+  "contact_support": "調査いたしますので、サポートサーバーまでお問い合わせください。",
+  "checking_out": "購入を確認中です..",
+  "dont_navigate_away": "※このページから移動しないでください",
+  "completed": "購入が完了しました",
+  "thank_you": "開発・運営をサポートいただき、ありがとうございます！",
+  "back_to_dashboard": "ダッシュボードへ戻る",
+  "title": "Quoteにオリジナリティを",
+  "description": "Make it a Quoteのプレミアムで、自由自在にQuoteを操りましょう！",
+  "monthly": {
+    "price": "¥150",
+    "description": "日本円 / 月、1年で1,800円",
+    "button": "月払いプランを購入",
+    "period": "月間",
+    "title": "月払い"
+  },
+  "yearly": {
+    "price": "¥1,500",
+    "description": "日本円 / 月、1か月125円相当",
+    "savings": "2か月分お得",
+    "button": "年払いプランを購入",
+    "period": "年間",
+    "title": "年払い"
+  },
+  "view_premium_details": "プレミアムの詳細を見る",
+  "billing_period": "請求期間",
+  "expires_at": "有効期限",
+  "auto_renew": {
+    "title": "自動更新",
+    "enabled": "有効",
+    "disabled": "無効"
+  },
+  "change_server": "他のサーバーに移動",
+  "cancel_subscription": {
+    "title": "解約",
+    "section": "えっ、解約するんですか？！",
+    "description": "こんないい機能が使えなくなっちゃうよ～",
+    "point_1": "Quote保存ができなくります",
+    "point_2": "Quoteの背景が編集できなくなります",
+    "point_3": "自分だけのフォントが使えなくなります",
+    "button": "解約する",
+    "keep_button": "この機能を使い続けたい！"
+  },
+  "view_billing": "請求書・支払い履歴の閲覧",
+  "billing_portal_note": "※ Stripe カスタマーポータルに移動します"
+}
