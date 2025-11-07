@@ -2,8 +2,8 @@
   "yearly": "Yearly",
   "monthly": "Monthly",
   "noSubscription": "No subscription",
-  "duration": "duration",
-  "expires": "expires",
-  "manage": "manage",
-  "portal": "portal"
+  "duration": "Duration",
+  "expires": "Expires",
+  "manage": "Manage subscription",
+  "portal": "You will be redirected to the billing portal."
 }
