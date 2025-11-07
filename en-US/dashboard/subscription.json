@@ -1,0 +1,47 @@
+{
+  "purchase_failed": "Purchase failed.",
+  "contact_support": "Please contact our support server for assistance.",
+  "checking_out": "Checking out...",
+  "dont_navigate_away": "*Please do not navigate away from this page.",
+  "completed": "Purchase completed",
+  "thank_you": "Thank you for supporting our development!",
+  "back_to_dashboard": "Back to Dashboard",
+  "title": "Add originality to your Quotes",
+  "description": "With Make it a Quote Premium, you can customize your Quotes freely!",
+  "monthly": {
+    "price": "$1.50",
+    "description": "USD / month, $18 per year",
+    "button": "Purchase monthly plan",
+    "period": "Monthly",
+    "title": "Monthly"
+  },
+  "yearly": {
+    "price": "$15.00",
+    "description": "USD / year, equivalent to $1.25 per month",
+    "savings": "2 months free",
+    "button": "Purchase yearly plan",
+    "period": "Yearly",
+    "title": "Yearly"
+  },
+  "view_premium_details": "View premium details",
+  "billing_period": "Billing period",
+  "expires_at": "Expires at",
+  "auto_renew": {
+    "title": "Auto-renew",
+    "enabled": "Enabled",
+    "disabled": "Disabled"
+  },
+  "change_server": "Move to another server",
+  "cancel_subscription": {
+    "title": "Cancel subscription",
+    "section": "Are you sure you want to cancel?",
+    "description": "You will lose access to these great features!",
+    "point_1": "You will not be able to save Quotes.",
+    "point_2": "You will not be able to edit Quote backgrounds.",
+    "point_3": "You will not be able to use your own fonts.",
+    "button": "Cancel subscription",
+    "keep_button": "I want to keep using these features!"
+  },
+  "view_billing": "View billing and payment history",
+  "billing_portal_note": "*You will be redirected to the Stripe Customer Portal."
+}
