@@ -47,5 +47,45 @@
   "fetch_quotes_failed": "Failed to fetch quotes",
   "fetch_servers_failed": "Failed to fetch server list",
   "warning": "Warning",
-  "error": "Error"
+  "error": "Error",
+  "search_quotes": "Search quotes by message content...",
+  "no_search_results": "No quotes found matching your search.",
+  "no_quotes_found": "No quotes found.",
+  "variation_count": "{{count}} variation",
+  "variation_count_plural": "{{count}} variations",
+  "theme": "Theme",
+  "font": "Font",
+  "quoted_by": "Quoted by",
+  "options": "Options",
+  "option_light": "Light",
+  "option_color": "Color",
+  "option_bold": "Bold",
+  "option_flip": "Flip",
+  "option_new": "New",
+  "delete_are_you_sure": "Are you sure?",
+  "delete_yes": "Yes",
+  "delete_cancel": "Cancel",
+  "footer": {
+    "menu": {
+      "pages": {
+        "title": "Pages",
+        "home": "Home",
+        "status": "Bot status"
+      },
+      "bots": {
+        "title": "Links to bots",
+        "discord": "Discord version",
+        "misskey": "Misskey / Mastodon version",
+        "bsky": "Bluesky version"
+      },
+      "legal": {
+        "title": "Legal",
+        "terms": "Terms of Service",
+        "privacy": "Privacy policy"
+      },
+      "other": {
+        "title": "Other services"
+      }
+    }
+  }
 }
