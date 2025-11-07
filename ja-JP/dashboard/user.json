@@ -2,8 +2,8 @@
   "yearly": "年間",
   "monthly": "月間",
   "noSubscription": "サブスクリプションに登録していません",
-  "duration": "期間",
-  "expires": "有効期限",
-  "manage": "管理する",
-  "portal": "ポータル"
+  "duration": "Duration",
+  "expires": "Expires",
+  "manage": "Manage subscription",
+  "portal": "You will be redirected to the billing portal."
 }
