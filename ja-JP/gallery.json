@@ -5,7 +5,7 @@
   "quote_gallery": "Quote ギャラリー",
   "server_quote_gallery": "サーバー Quote ギャラリー",
   "top_page": "トップページ",
-  "my_page": "Back to Dashboard",
+  "my_page": "マイページ",
   "my_gallery": "マイギャラリー",
   "server_galleries": "サーバーギャラリー",
   "your_quote_collection": "あなたの Quote コレクション",
@@ -47,5 +47,45 @@
   "fetch_quotes_failed": "Quote 一覧の取得に失敗しました",
   "fetch_servers_failed": "サーバー一覧の取得に失敗しました",
   "warning": "警告",
-  "error": "エラー"
+  "error": "エラー",
+  "search_quotes": "メッセージ内容で Quote を検索...",
+  "no_search_results": "検索条件に一致する Quote が見つかりませんでした。",
+  "no_quotes_found": "Quote が見つかりませんでした。",
+  "variation_count": "{{count}} 個のバリエーション",
+  "variation_count_plural": "{{count}} 個のバリエーション",
+  "theme": "テーマ",
+  "font": "フォント",
+  "quoted_by": "引用者",
+  "options": "オプション",
+  "option_light": "ライト",
+  "option_color": "カラー",
+  "option_bold": "太字",
+  "option_flip": "反転",
+  "option_new": "新規",
+  "delete_are_you_sure": "本当に削除しますか？",
+  "delete_yes": "はい",
+  "delete_cancel": "いいえ",
+  "footer": {
+    "menu": {
+      "pages": {
+        "title": "ページ",
+        "home": "ホーム",
+        "status": "Bot ステータス"
+      },
+      "bots": {
+        "title": "Bot へのリンク",
+        "discord": "Discord 版",
+        "misskey": "Misskey / Mastodon 版",
+        "bsky": "Bluesky 版"
+      },
+      "legal": {
+        "title": "法的情報",
+        "terms": "利用規約",
+        "privacy": "プライバシーポリシー"
+      },
+      "other": {
+        "title": "他のサービス"
+      }
+    }
+  }
 }
