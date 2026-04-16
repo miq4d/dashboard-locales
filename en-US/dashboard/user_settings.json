@@ -52,5 +52,7 @@
   "save": {
     "button": "Save",
     "success": "Settings saved successfully"
-  }
+  },
+  "general": "General",
+  "subscription": "Subscription"
 }

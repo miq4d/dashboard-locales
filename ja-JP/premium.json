@@ -3,6 +3,12 @@
   "priceSuffix": "米ドル",
   "plan": "プラン",
   "badge": "もらえるバッジ",
+  "guildBadges": "サーバーバッジシステム",
+  "guildBadgesDesc": {
+    "free": "バッジなし",
+    "basic": "サーバーにバッジを1個付与可能",
+    "standard": "サーバーにバッジを3個付与可能"
+  },
   "ads": "広告非表示",
   "alwaysLimit": "Always Quote チャンネル",
   "addGifs": "GIF画像をQuoteに追加",
@@ -25,5 +31,8 @@
   "15Discount": "15%お得！",
   "monthly": "月",
   "yearly": "年",
-  "alreadySubscribed": "既に契約しています"
+  "alreadySubscribed": "既に契約しています",
+  "badgeManagement": "バッジ管理",
+  "usingPlus": "🎉 Plus サブスクリプションをご利用中です！",
+  "usableFeatures": "以下のバッジ管理機能をご利用いただけます。"
 }

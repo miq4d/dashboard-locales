@@ -1,6 +1,7 @@
 {
   "sidebar": {
     "home": "Home",
+    "gallery": "Gallery",
     "server_settings": "Server Settings",
     "user_settings": "User Settings",
     "support": "Support",

@@ -10,5 +10,7 @@
   "429": {
     "title": "Too many requests",
     "description": "The server list can be reacquired once every minute. Please try again after a while."
-  }
+  },
+  "server_icon_alt": "Server icon",
+  "no_servers": "No servers found."
 }

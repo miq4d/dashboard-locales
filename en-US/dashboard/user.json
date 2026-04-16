@@ -1,5 +1,9 @@
 {
   "yearly": "Yearly",
   "monthly": "Monthly",
-  "noSubscription": "No subscription"
+  "noSubscription": "No subscription",
+  "duration": "Duration",
+  "expires": "Expires",
+  "manage": "Manage subscription",
+  "portal": "You will be redirected to the billing portal."
 }

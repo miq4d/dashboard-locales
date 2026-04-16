@@ -1,0 +1,31 @@
+{
+  "title": "Server Badge Management",
+  "description": "View badges granted to this server. Granting badges unlocks Plus exclusive features.",
+  "current_plan": "Current Plan",
+  "active_badges": "Active Badges",
+  "total_badges": "Total Badges",
+  "badge_holders": "Badge Holders",
+  "no_badges": "This server currently has no badges granted.",
+  "badge_list": "Badge List",
+  "granted_by": "Granted By",
+  "granted_at": "Granted At",
+  "expires_at": "Expires At",
+  "never_expires": "Never",
+  "plan_info": {
+    "free": {
+      "name": "Free",
+      "description": "Basic features only"
+    },
+    "basic": {
+      "name": "Basic",
+      "description": "Available with 1 badge"
+    },
+    "standard": {
+      "name": "Standard",
+      "description": "Available with 2 badges"
+    }
+  },
+  "manage_badges": "Manage Badges",
+  "grant_badge": "Grant Badge",
+  "revoke_badge": "Revoke Badge"
+}
