@@ -27,7 +27,12 @@
     "title": "デフォルト設定",
     "description": "Quote を作成する時に使用されるデフォルトの設定",
     "options": {
-      "font": "フォント"
+      "font": "フォント",
+      "theme": "テーマ"
+    },
+    "theme_note": {
+      "title": "寄付者限定機能",
+      "description": "Black/White 以外のテーマは、寄付の確認後にのみ利用できます。まだ寄付していない場合、この設定を保存しても Quote 生成時には Black/White として扱われます。"
     }
   },
   "compact": {
@@ -35,6 +40,13 @@
     "description": "Quote のコントロールボタンを表示しないようにするかどうか",
     "options": {
       "enable": "コンパクトモードを有効化"
+    }
+  },
+  "done": {
+    "title": "Done ボタンの設定",
+    "description": "Quote に Done ボタンを追加します。このボタンを押すと、その Quote からボタンが消えてコンパクトモードのように見えるようになります。コンパクトモードでは効果はありません。",
+    "options": {
+      "enable": "Done ボタンを有効化"
     }
   },
   "save": {

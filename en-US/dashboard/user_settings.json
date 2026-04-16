@@ -27,7 +27,12 @@
     "title": "Default Settings",
     "description": "Default options used when creating a Quote",
     "options": {
-      "font": "Font"
+      "font": "Font",
+      "theme": "Theme"
+    },
+    "theme_note": {
+      "title": "Donor-only feature",
+      "description": "Themes other than Black/White are available only after a donation is confirmed. If you have not donated yet, saved theme defaults will fall back to Black/White when Quotes are generated."
     }
   },
   "compact": {
