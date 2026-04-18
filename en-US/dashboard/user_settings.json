@@ -33,6 +33,14 @@
     "theme_note": {
       "title": "Donor-only feature",
       "description": "Themes other than Black/White are available only after a donation is confirmed. If you have not donated yet, saved theme defaults will fall back to Black/White when Quotes are generated."
+    },
+    "apply_to_owned_servers": {
+      "title": "Apply the following defaults to servers you own",
+      "description": "Currently only theme can be selected. If a member has already chosen a non-Black/White theme in their own user settings, their personal setting takes precedence.",
+      "options": {
+        "theme": "Apply my default theme to every server I own"
+      },
+      "note": "This only takes effect when you are the server owner and your donation has been confirmed."
     }
   },
   "compact": {
