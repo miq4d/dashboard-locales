@@ -81,6 +81,12 @@
   },
   "save": {
     "button": "Save",
-    "success": "Settings saved successfully"
-  }
+    "success": "Settings saved successfully",
+    "error": "Failed to save settings."
+  },
+  "load_error": "Failed to load server settings.",
+  "back": "Back to servers",
+  "plus": "Plus",
+  "subscription": "Subscription",
+  "plus_coming_soon": "Coming soon..."
 }

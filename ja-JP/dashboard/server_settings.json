@@ -81,6 +81,12 @@
   },
   "save": {
     "button": "保存",
-    "success": "設定を保存しました"
-  }
+    "success": "設定を保存しました",
+    "error": "設定の保存に失敗しました。"
+  },
+  "load_error": "サーバー設定の読み込みに失敗しました。",
+  "back": "サーバー一覧へ戻る",
+  "plus": "Plus",
+  "subscription": "サブスクリプション",
+  "plus_coming_soon": "Coming soon..."
 }

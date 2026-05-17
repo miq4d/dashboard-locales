@@ -61,6 +61,7 @@
     "button": "保存",
     "success": "設定を保存しました"
   },
+  "load_error": "設定の読み込みに失敗しました。",
   "general": "一般",
   "subscription": "購入管理"
 }
