@@ -33,6 +33,8 @@
       "other": {
         "title": "Other services"
       }
-    }
+    },
+    "language": "Language",
+    "powered_by": "Powered by"
   }
 }
