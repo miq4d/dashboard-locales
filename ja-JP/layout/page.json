@@ -33,6 +33,8 @@
       "other": {
         "title": "他のサービス"
       }
-    }
+    },
+    "language": "言語",
+    "powered_by": "Powered by"
   }
 }
