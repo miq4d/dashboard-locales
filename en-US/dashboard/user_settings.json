@@ -61,6 +61,7 @@
     "button": "Save",
     "success": "Settings saved successfully"
   },
+  "load_error": "Failed to load settings.",
   "general": "General",
   "subscription": "Subscription"
 }
