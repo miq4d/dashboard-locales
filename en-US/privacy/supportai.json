@@ -1,0 +1,13 @@
+{
+  "title": "Make it a Quote Support AI プライバシーポリシー",
+  "updated": "最終更新: 2026年6月12日",
+  "description": "Neody は、 Make It A Quote サポート Discord サーバー上で提供するサービスにおける、ユーザーの個人情報の取扱いについて、以下のとおりプライバシーポリシー (以下「当ポリシー」) を定めます。",
+  "collection": {
+    "title": "個人情報の収集",
+    "content": "<p>Neody は、 ユーザーのお問い合わせに対し LLM を用いた応答を生成するする際に一時的に</p><ul><li>ユーザーがサポートフォーラムに投稿したテキストと画像</li></ul><p>を取得します。</p><p>これらの情報は、 Vercel AI Gateway を通じて Zero Data Retention ( ZDR ) ポリシーを採用したプロバイダーに送信され、生成後即座に廃棄されます。</p>"
+  },
+  "purpose": {
+    "title": "個人情報を収集・利用する目的",
+    "content": "<p>Neody が個人情報を収集・利用する目的は、以下のとおりです。</p><ul><li>リクエストされたメッセージからサポートメッセージを生成するため。</li></ul>"
+  }
+}
