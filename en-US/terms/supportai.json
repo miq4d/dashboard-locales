@@ -1,9 +1,10 @@
 {
-  "title": "Make it a Quote Support AI 利用規約",
-  "updated": "最終更新: 2026年6月12日",
-  "description": "この利用規約 (以下「当規約」) は、Neody が Make It A Quote サポート Discord サーバー上で提供するサービス (以下「当サービス」) の利用条件を定めるものです。登録ユーザーの皆さま (以下「ユーザー」) には、当規約に従って、当サービスをご利用いただきます。",
+  "title": "Make it a Quote Support AI Terms of Service",
+  "updated": "Last updated: June 12, 2026",
+  "warning": "This page is an English translation of the Japanese version of the Terms of Service.\nIn the event of any discrepancy between the Japanese version and this page, the Japanese version shall prevail.",
+  "description": "These Terms of Service (hereinafter referred to as the \"Terms\") set forth the conditions for use of the services (hereinafter referred to as the \"Service\") provided by Neody on the Make It A Quote Support Discord server. Registered users (hereinafter referred to as \"Users\") shall use the Service in accordance with these Terms.",
   "registration": {
-    "title": "利用登録",
-    "content": "<p>当サービスにおいては、登録希望者が当規約に同意の上、Make It A Quote サポート Discordサーバーのお問い合わせフォーラムへメッセージを送信した時点で利用登録が完了するものとします。</p><p>Neody は、利用登録の申請者に以下の事由があると判断した場合、登録の削除,ブロックすることがあり、その理由については一切の開示義務を負わないものとします。</p><ul><li>当規約に違反したことがある者からの申請である場合</li><li>その他、Neody が利用登録を相当でないと判断した場合</ul>"
+    "title": "Registration",
+    "content": "<p>For the Service, registration is completed when an applicant agrees to these Terms and sends a message to the inquiry forum of the Make It A Quote Support Discord server.</p><p>If Neody determines that an applicant for registration falls under any of the following, Neody may delete or block the registration, and shall not be obligated to disclose any reason for doing so.</p><ul><li>The application is from a person who has previously violated these Terms</li><li>Any other case in which Neody determines that registration is not appropriate</ul>"
   }
 }
