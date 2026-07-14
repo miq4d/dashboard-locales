@@ -27,7 +27,7 @@
     "usd": "USD",
     "per_month": "/ month",
     "started": "Started {{date}}",
-    "to_be_canceled": "To be canceled",
+    "to_be_canceled": "Cancellation pending",
     "active": "Active",
     "open_billing_portal": "Open Billing Portal"
   },
@@ -40,7 +40,7 @@
   "profile": {
     "avatar_alt": "{{name}} avatar",
     "early_donator": "Early donator",
-    "early_donator_tooltip": "Early donators keep a permanent premium perk as thanks for supporting us early.",
+    "early_donator_tooltip": "Early donators keep a permanent premium perk as a thank-you for supporting us early.",
     "discord_id": "Discord ID: {{id}}",
     "permanent_perk": "Permanent premium perk"
   },
@@ -68,7 +68,7 @@
   },
   "checkout": {
     "active_title": "Subscription active",
-    "active_description": "Thank you for subscribing. You can manage billing any time from the portal.",
+    "active_description": "Thank you for subscribing. You can manage billing at any time from the portal.",
     "go_dashboard": "Go to dashboard"
   }
 }
