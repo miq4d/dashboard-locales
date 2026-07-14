@@ -1,0 +1,74 @@
+{
+  "app": {
+    "checking_auth": "認証状態を確認しています...",
+    "loading": "読み込み中..."
+  },
+  "login": {
+    "sign_in": "サインイン",
+    "subtitle": "サインインして Make it a Quote のサブスクリプションを管理しましょう。",
+    "continue_oauth": "OAuth2 でサインイン"
+  },
+  "header": {
+    "home_aria": "Make it a Quote — ホーム",
+    "subscription": "サブスクリプション",
+    "logout": "ログアウト"
+  },
+  "language": {
+    "label": "言語"
+  },
+  "top": {
+    "title": "サブスクリプション",
+    "subtitle": "現在の Make it a Quote サブスクリプションの状態です。",
+    "loading_status": "状態を読み込み中...",
+    "status_title": "状態",
+    "status_note": "Discord で有効になるまで最大1時間ほどかかる場合があります。",
+    "active_count_one": "有効なサブスクリプション {{count}} 件",
+    "active_count_other": "有効なサブスクリプション {{count}} 件",
+    "usd": "USD",
+    "per_month": "/ 月",
+    "started": "開始日 {{date}}",
+    "to_be_canceled": "解約予定",
+    "active": "有効",
+    "open_billing_portal": "請求ポータルを開く"
+  },
+  "amount_picker": {
+    "label": "金額（USD / 月）",
+    "presets_aria": "金額のクイック選択",
+    "slide_to_adjust": "スライドで調整",
+    "per_mo": "${{amount}} / 月"
+  },
+  "profile": {
+    "avatar_alt": "{{name}} のアイコン",
+    "early_donator": "アーリードナー",
+    "early_donator_tooltip": "早期にご支援いただいた方への感謝として、アーリードナーには永久プレミアム特典が付与されます。",
+    "discord_id": "Discord ID: {{id}}",
+    "permanent_perk": "永久プレミアム特典"
+  },
+  "subscribe": {
+    "complete_payment": "支払いを完了する",
+    "plan": "プラン:",
+    "plan_amount": "${{amount}} USD / 月",
+    "change": "変更",
+    "add_subscription": "サブスクリプションを追加",
+    "no_active_subscription": "有効なサブスクリプションはありません",
+    "add_more": "余裕があれば、さらにサブスクリプションを追加できます！",
+    "pick_amount": "USD で金額を選択してください。",
+    "billed_monthly": "毎月請求されます。",
+    "cancel_anytime": "カスタマーポータルからいつでも解約できます。",
+    "no_benefits": "金額やサブスクリプション数にかかわらず、追加の特典はありません。",
+    "loading_checkout": "チェックアウトを読み込み中…",
+    "continue_payment": "支払いに進む",
+    "checkout_failed": "チェックアウトセッションの作成に失敗しました: {{status}}",
+    "unknown_error": "不明なエラー"
+  },
+  "not_found": {
+    "title": "ページが見つかりません",
+    "description": "お探しのページは存在しません。",
+    "go_dashboard": "ダッシュボードへ"
+  },
+  "checkout": {
+    "active_title": "サブスクリプションが有効になりました",
+    "active_description": "ご登録ありがとうございます。請求はいつでもポータルから管理できます。",
+    "go_dashboard": "ダッシュボードへ"
+  }
+}
