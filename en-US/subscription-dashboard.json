@@ -1,0 +1,74 @@
+{
+  "app": {
+    "checking_auth": "checking auth status now...",
+    "loading": "loading..."
+  },
+  "login": {
+    "sign_in": "Sign in",
+    "subtitle": "Sign in to manage your Make it a Quote subscription.",
+    "continue_oauth": "Continue with OAuth2"
+  },
+  "header": {
+    "home_aria": "Make it a Quote — Home",
+    "subscription": "Subscription",
+    "logout": "Logout"
+  },
+  "language": {
+    "label": "Language"
+  },
+  "top": {
+    "title": "Subscription",
+    "subtitle": "Your current Make it a Quote subscription status.",
+    "loading_status": "loading status...",
+    "status_title": "Status",
+    "status_note": "It may take up to 1 hour for your subscription to become active on Discord.",
+    "active_count_one": "{{count}} active subscription",
+    "active_count_other": "{{count}} active subscriptions",
+    "usd": "USD",
+    "per_month": "/ month",
+    "started": "Started {{date}}",
+    "to_be_canceled": "Cancellation pending",
+    "active": "Active",
+    "open_billing_portal": "Open Billing Portal"
+  },
+  "amount_picker": {
+    "label": "Amount (USD / month)",
+    "presets_aria": "Quick amount presets",
+    "slide_to_adjust": "Slide to adjust",
+    "per_mo": "${{amount}} / mo"
+  },
+  "profile": {
+    "avatar_alt": "{{name}} avatar",
+    "early_donator": "Early donator",
+    "early_donator_tooltip": "Early donators keep a permanent premium perk as a thank-you for supporting us early.",
+    "discord_id": "Discord ID: {{id}}",
+    "permanent_perk": "Permanent premium perk"
+  },
+  "subscribe": {
+    "complete_payment": "Complete payment",
+    "plan": "Plan:",
+    "plan_amount": "${{amount}} USD / month",
+    "change": "Change",
+    "add_subscription": "Add subscription",
+    "no_active_subscription": "No active subscription",
+    "add_more": "You may add more subscription if you are rich!",
+    "pick_amount": "Pick amount in USD.",
+    "billed_monthly": "Billed monthly.",
+    "cancel_anytime": "You could cancel any time from the customer portal.",
+    "no_benefits": "No additional benefits regardless of price/subscription count.",
+    "loading_checkout": "Loading checkout…",
+    "continue_payment": "Continue to payment",
+    "checkout_failed": "failed to create checkout session: {{status}}",
+    "unknown_error": "unknown error"
+  },
+  "not_found": {
+    "title": "Not found",
+    "description": "The page you're looking for doesn't exist.",
+    "go_dashboard": "Go to dashboard"
+  },
+  "checkout": {
+    "active_title": "Subscription active",
+    "active_description": "Thank you for subscribing. You can manage billing at any time from the portal.",
+    "go_dashboard": "Go to dashboard"
+  }
+}
