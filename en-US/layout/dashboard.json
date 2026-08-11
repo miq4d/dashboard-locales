@@ -7,5 +7,10 @@
     "support": "Support",
     "return_top": "Back to top",
     "plus": "Plus"
+  },
+  "donate": {
+    "title": "Enjoy the bot?",
+    "description": "Support development, and get some cool perks in return!",
+    "button": "Donate now!"
   }
 }

@@ -32,7 +32,8 @@
     },
     "theme_note": {
       "title": "Donor-only feature",
-      "description": "Themes other than Black/White are available only after a donation is confirmed. If you have not donated yet, saved theme defaults will fall back to Black/White when Quotes are generated."
+      "description": "Themes other than Black/White are available only after a donation is confirmed. If you have not donated yet, saved theme defaults will fall back to Black/White when Quotes are generated.",
+      "donate": "Donate now!"
     },
     "apply_to_owned_servers": {
       "title": "Apply the following defaults to servers you own",
