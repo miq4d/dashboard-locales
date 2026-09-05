@@ -42,7 +42,9 @@
     "early_donator": "アーリードナー",
     "early_donator_tooltip": "早期にご支援いただいた方への感謝として、アーリードナーには永久プレミアム特典が付与されます。",
     "discord_id": "Discord ID: {{id}}",
-    "permanent_perk": "永久プレミアム特典"
+    "permanent_perk": "永久プレミアム特典",
+    "grant_supporter_role_title": "サポーターロールの付与",
+    "grant_supporter_role_description": "サポートサーバーで@Supporterロールを付与するか設定します。"
   },
   "subscribe": {
     "complete_payment": "支払いを完了する",
