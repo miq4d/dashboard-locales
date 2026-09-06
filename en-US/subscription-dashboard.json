@@ -42,7 +42,9 @@
     "early_donator": "Early donator",
     "early_donator_tooltip": "Early donators keep a permanent premium perk as a thank-you for supporting us early.",
     "discord_id": "Discord ID: {{id}}",
-    "permanent_perk": "Permanent premium perk"
+    "permanent_perk": "Permanent premium perk",
+    "grant_supporter_role_title": "Grant Supporter Role",
+    "grant_supporter_role_description": "Configure whether to grant the @Supporter role in the support server."
   },
   "subscribe": {
     "complete_payment": "Complete payment",
