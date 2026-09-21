@@ -27,6 +27,7 @@
     "title": "Default Settings",
     "description": "Default options used when creating a Quote",
     "options": {
+      "gif": "Generate as GIF (single-frame)",
       "font": "Font",
       "theme": "Theme"
     },
