@@ -27,6 +27,7 @@
     "title": "デフォルト設定",
     "description": "Quote を作成する時に使用されるデフォルトの設定",
     "options": {
+      "gif": "GIF として生成 (単一フレーム)",
       "font": "フォント",
       "theme": "テーマ"
     },
