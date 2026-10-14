@@ -12,5 +12,8 @@
     "title": "Enjoy the bot?",
     "description": "Support development, and get some cool perks in return!",
     "button": "Donate now!"
-  }
+  },
+  "title": "Make it a Quote Dashboard",
+  "open_sidebar": "Open sidebar",
+  "close_sidebar": "Close sidebar"
 }

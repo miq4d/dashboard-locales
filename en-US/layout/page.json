@@ -10,7 +10,9 @@
     "buttons": {
       "invite": "Invite Bot",
       "dashboard": "Dashboard"
-    }
+    },
+    "toggle_menu": "Toggle menu",
+    "current_page": "Current page"
   },
   "footer": {
     "menu": {
@@ -23,7 +25,8 @@
         "title": "Links to bots",
         "discord": "Discord version",
         "misskey": "Misskey / Mastodon version",
-        "bsky": "Bluesky version"
+        "bsky": "Bluesky version",
+        "slack": "Slack version"
       },
       "legal": {
         "title": "Legal",
@@ -35,6 +38,7 @@
       }
     },
     "language": "Language",
-    "powered_by": "Powered by"
+    "powered_by": "Powered by",
+    "tagline": "The world's most trusted quote generator"
   }
 }

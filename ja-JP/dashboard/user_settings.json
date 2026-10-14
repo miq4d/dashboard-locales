@@ -64,5 +64,6 @@
   },
   "load_error": "設定の読み込みに失敗しました。",
   "general": "一般",
-  "subscription": "購入管理"
+  "subscription": "購入管理",
+  "back": "ダッシュボードに戻る"
 }

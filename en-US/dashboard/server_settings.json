@@ -77,7 +77,8 @@
     "choose_role": "Choose role",
     "everyone": "Affect to everyone",
     "not_specified": "Role not specified",
-    "zero_warning": "No one can Quote because no role is specified in whitelist mode!"
+    "zero_warning": "No one can Quote because no role is specified in whitelist mode!",
+    "unknown_role": "Unknown role"
   },
   "save": {
     "button": "Save",

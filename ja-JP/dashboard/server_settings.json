@@ -77,7 +77,8 @@
     "choose_role": "ロールを選択",
     "everyone": "全員に適用されます",
     "not_specified": "ロールが指定されていません",
-    "zero_warning": "ホワイトリストモードでロールが指定されていないため、誰もQuoteすることができません！"
+    "zero_warning": "ホワイトリストモードでロールが指定されていないため、誰もQuoteすることができません！",
+    "unknown_role": "不明なロール"
   },
   "save": {
     "button": "保存",

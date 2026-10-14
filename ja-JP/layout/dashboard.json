@@ -12,5 +12,8 @@
     "title": "Botを気に入っていただけましたか？",
     "description": "開発を支援して、寄付者限定特典を手に入れよう！",
     "button": "今すぐ寄付する！"
-  }
+  },
+  "title": "Make it a Quote ダッシュボード",
+  "open_sidebar": "サイドバーを開く",
+  "close_sidebar": "サイドバーを閉じる"
 }

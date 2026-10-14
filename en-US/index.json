@@ -13,5 +13,11 @@
   "free": "Free to use",
   "free_description": "Most features of Make it a Quote are completely free to use!*",
   "join": "Join",
-  "servers_enjoying": "servers with Make it a Quote!"
+  "servers_enjoying": "servers with Make it a Quote!",
+  "stats": {
+    "servers": "servers,",
+    "users": "users",
+    "languages": "languages already supported"
+  },
+  "example_alt": "Example quote made with Make it a Quote"
 }

@@ -13,5 +13,11 @@
   "free": "基本無料",
   "free_description": "Make it a Quote のほとんどの機能は完全に無料で使用できます！",
   "join": "あなたも",
-  "servers_enjoying": "のMake it a Quote 使ってるサーバーへ仲間入り！"
+  "servers_enjoying": "のMake it a Quote 使ってるサーバーへ仲間入り！",
+  "stats": {
+    "servers": "サーバー、",
+    "users": "ユーザー",
+    "languages": "の言語に対応済み"
+  },
+  "example_alt": "Make it a Quote の生成例"
 }

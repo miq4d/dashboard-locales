@@ -10,7 +10,9 @@
     "buttons": {
       "invite": "Bot を招待",
       "dashboard": "ダッシュボード"
-    }
+    },
+    "toggle_menu": "メニューを切り替え",
+    "current_page": "現在のページ"
   },
   "footer": {
     "menu": {
@@ -23,7 +25,8 @@
         "title": "Bot へのリンク",
         "discord": "Discord 版",
         "misskey": "Misskey / Mastodon 版",
-        "bsky": "Bluesky 版"
+        "bsky": "Bluesky 版",
+        "slack": "Slack 版"
       },
       "legal": {
         "title": "法的情報",
@@ -35,6 +38,7 @@
       }
     },
     "language": "言語",
-    "powered_by": "Powered by"
+    "powered_by": "Powered by",
+    "tagline": "世界で最も信頼されている Quote ジェネレーター"
   }
 }
