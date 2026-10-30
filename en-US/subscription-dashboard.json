@@ -33,9 +33,15 @@
   },
   "amount_picker": {
     "label": "Amount (USD / month)",
+    "monthly_amount_label": "Amount ({{currency}} / month)",
+    "currency": "Currency",
+    "switch_currency": "Switch to {{currency}}",
+    "existing_currency": "While an existing subscription is in effect, additional subscriptions must also use {{currency}}. To use another currency, wait until the existing subscription has ended.",
+    "discover_hint": "For Discover or Diners Club, choose JPY.",
     "presets_aria": "Quick amount presets",
     "slide_to_adjust": "Slide to adjust",
-    "per_mo": "${{amount}} / mo"
+    "per_mo": "${{amount}} / mo",
+    "formatted_per_mo": "{{amount}} / mo"
   },
   "profile": {
     "avatar_alt": "{{name}} avatar",
@@ -50,11 +56,13 @@
     "complete_payment": "Complete payment",
     "plan": "Plan:",
     "plan_amount": "${{amount}} USD / month",
+    "formatted_plan_amount": "{{amount}} / month",
     "change": "Change",
     "add_subscription": "Add subscription",
     "no_active_subscription": "No active subscription",
     "add_more": "You may add more subscription if you are rich!",
     "pick_amount": "Pick amount in USD.",
+    "pick_currency_amount": "Choose a currency and monthly amount.",
     "billed_monthly": "Billed monthly.",
     "cancel_anytime": "You could cancel any time from the customer portal.",
     "no_benefits": "No additional benefits regardless of price/subscription count.",
