@@ -33,9 +33,15 @@
   },
   "amount_picker": {
     "label": "金額（USD / 月）",
+    "monthly_amount_label": "金額（{{currency}} / 月）",
+    "currency": "通貨",
+    "existing_currency": "既存の契約が続いている間、追加の契約も {{currency}} 建てになります。別の通貨を利用するには、既存の契約が終了するまでお待ちください。",
+    "discover_hint": "Discover・Diners Club を利用する場合は JPY を選択してください。利用可否は対応状況や審査によります。",
+    "invalid_amount": "{{min}}〜{{max}}の整数を入力してください。",
     "presets_aria": "金額のクイック選択",
     "slide_to_adjust": "スライドで調整",
-    "per_mo": "${{amount}} / 月"
+    "per_mo": "${{amount}} / 月",
+    "formatted_per_mo": "{{amount}} / 月"
   },
   "profile": {
     "avatar_alt": "{{name}} のアイコン",
@@ -50,11 +56,13 @@
     "complete_payment": "支払いを完了する",
     "plan": "プラン:",
     "plan_amount": "${{amount}} USD / 月",
+    "formatted_plan_amount": "{{amount}} / 月",
     "change": "変更",
     "add_subscription": "サブスクリプションを追加",
     "no_active_subscription": "有効なサブスクリプションはありません",
     "add_more": "余裕があれば、さらにサブスクリプションを追加できます！",
     "pick_amount": "USD で金額を選択してください。",
+    "pick_currency_amount": "通貨と毎月の金額を選択してください。",
     "billed_monthly": "毎月請求されます。",
     "cancel_anytime": "カスタマーポータルからいつでも解約できます。",
     "no_benefits": "金額やサブスクリプション数にかかわらず、追加の特典はありません。",
